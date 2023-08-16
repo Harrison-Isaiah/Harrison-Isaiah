@@ -1,8 +1,12 @@
 # 💫About Me :
 🔭 Currently, I'm engaged in front-end development.
+
 👯 I'm seeking opportunities for collaboration on projects centered around React.
+
 🌱 My current focus is advancing my frontend skills, particularly in React.
+
 💬 Feel free to inquire about JavaScript and React from me.
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/harrisonisaiah.rafaqat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harrison_isaiahh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harrison-isaiah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harrisonIsaiahh) 
