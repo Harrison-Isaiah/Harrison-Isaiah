@@ -1,9 +1,9 @@
 # 💫About Me :
 🔭 Currently, I'm engaged in front-end development.
 
-👯 I'm seeking opportunities for collaboration on projects centered around React.
+👯 Seeking opportunities for collaboration on projects centered around React & NextJS.
 
-🌱 My current focus is advancing my frontend skills, particularly in React.
+🌱 My current focus is advancing my frontend skills, particularly in React & NextJS.
 
 💬 Feel free to inquire about JavaScript and React from me.
 
